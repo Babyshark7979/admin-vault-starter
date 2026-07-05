@@ -1,5 +1,7 @@
 # 📤 Output — Bàn giao / Nộp bài
 
+> Bước 5 trong [[WORKFLOW|Quy trình làm việc]] | Xem lại: [[Templates/checklist-sua-van-ban]]
+
 **File gốc:** 
 **File hoàn thành:** 
 **Ngày nộp:** 

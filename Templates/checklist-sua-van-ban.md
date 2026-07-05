@@ -1,5 +1,7 @@
 # ✅ Checklist Sửa Văn Bản
 
+> Bước 3 trong [[WORKFLOW|Quy trình làm việc]] | Prompt AI: [[HUONG-DAN-ANTIGRAVITY]] | Nộp bài: [[Templates/output-nop-bai]]
+
 **File:** 
 **Ngày:** {{date}}
 **Người sửa:** 

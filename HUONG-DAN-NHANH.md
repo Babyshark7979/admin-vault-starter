@@ -13,6 +13,8 @@
 
 ---
 
+> Xem sơ đồ đầy đủ: [[WORKFLOW]] | Prompt AI: [[HUONG-DAN-ANTIGRAVITY]]
+
 ## Làm việc hàng ngày — 5 bước
 
 ### 1️⃣ Nhận file → vào Inbox
@@ -23,21 +25,21 @@ Khi nhận tài liệu cần xử lý:
 
 ### 2️⃣ Mở template nhận việc
 
-- Trong Obsidian, bấm vào `Templates/nhan-viec.md`
+- Trong Obsidian, bấm vào [[Templates/nhan-viec|Template nhận việc]]
 - Tạo file mới, copy nội dung template vào
 - Điền: ai giao, deadline, cần làm gì
 
 ### 3️⃣ Xử lý tài liệu
 
 - Move file sang `Đang làm/`
-- Mở `Templates/checklist-sua-van-ban.md`
+- Mở [[Templates/checklist-sua-van-ban|Checklist sửa văn bản]]
 - Làm theo từng ô checklist từ trên xuống
 
 ### 4️⃣ Nhờ AI kiểm tra lại
 
 - Mở **Antigravity**
 - Copy đoạn văn cần kiểm tra
-- Paste prompt sau vào Antigravity:
+- Xem [[HUONG-DAN-ANTIGRAVITY|hướng dẫn prompt]] hoặc paste prompt sau:
 
 > *"Hãy sửa lỗi chính tả và lỗi dấu tiếng Việt trong đoạn văn sau. Chỉ sửa lỗi sai rõ ràng, không thay đổi nội dung. Liệt kê những gì đã sửa."*
 
@@ -84,3 +86,14 @@ AI sẽ hỏi thêm hoặc gợi ý hướng giải quyết.
 ---
 
 *Cần giải thích thêm gì → hỏi anh Giang hoặc nhắn Antigravity.*
+
+---
+
+## Liên kết nhanh
+
+- [[WORKFLOW|Quy trình đầy đủ (Input → Output)]]
+- [[HUONG-DAN-ANTIGRAVITY|Prompt AI sẵn — copy paste thẳng]]
+- [[Templates/nhan-viec|Template nhận việc]]
+- [[Templates/checklist-sua-van-ban|Checklist sửa văn bản]]
+- [[Templates/review-tai-lieu|Review tài liệu]]
+- [[Templates/output-nop-bai|Checklist nộp bài]]

@@ -26,7 +26,7 @@
 1. Nhận file/tài liệu → đặt vào thư mục `Inbox/`
 2. Đặt tên file theo format: `YYYY-MM-DD Tên tài liệu`
    - Ví dụ: `2026-07-05 Công văn phòng nhân sự`
-3. Tạo file ghi chú từ template `Templates/nhan-viec.md`
+3. Tạo file ghi chú từ template [[Templates/nhan-viec|Template nhận việc]]
 
 **Output của bước này:** File trong Inbox + ghi chú yêu cầu
 
@@ -55,8 +55,8 @@
 **Move file sang `Đang làm/`**
 
 Chọn checklist phù hợp:
-- Sửa lỗi chính tả → `Templates/checklist-sua-van-ban.md`
-- Review toàn bộ tài liệu → `Templates/review-tai-lieu.md`
+- Sửa lỗi chính tả → [[Templates/checklist-sua-van-ban|Checklist sửa văn bản]]
+- Review toàn bộ tài liệu → [[Templates/review-tai-lieu|Review tài liệu]]
 
 **Quy trình xử lý chuẩn:**
 1. Đọc lướt toàn bộ (đừng sửa ngay)
@@ -71,7 +71,7 @@ Chọn checklist phù hợp:
 **Khi nào dùng:** Sau khi đã sửa thủ công xong
 
 1. Mở Antigravity
-2. Chọn prompt phù hợp trong `HUONG-DAN-ANTIGRAVITY.md`
+2. Chọn prompt phù hợp trong [[HUONG-DAN-ANTIGRAVITY|Hướng dẫn Antigravity]]
 3. Paste văn bản vào
 4. Đọc kết quả → **tự quyết định** có áp dụng không
 5. Sửa thêm nếu AI phát hiện lỗi còn sót
@@ -85,8 +85,21 @@ Chọn checklist phù hợp:
 1. Lưu bản cuối → đặt tên rõ: `2026-07-05 Tên tài liệu FINAL`
 2. Move sang thư mục `Xong/`
 3. Nộp đúng format theo yêu cầu (PDF / in ra / email...)
-4. Điền vào `Templates/output-nop-bai.md` để có bằng chứng đã nộp
+4. Điền vào [[Templates/output-nop-bai|Template nộp bài]] để có bằng chứng đã nộp
 5. Ghi 1 dòng vào `logs/YYYY-MM-DD.md`
+
+---
+
+---
+
+## Liên kết nhanh
+
+- [[HUONG-DAN-NHANH|Hướng dẫn nhanh — đọc trước]]
+- [[HUONG-DAN-ANTIGRAVITY|Prompt AI — copy paste sẵn]]
+- [[Templates/nhan-viec|Template nhận việc (Bước 2)]]
+- [[Templates/checklist-sua-van-ban|Checklist sửa văn bản (Bước 3)]]
+- [[Templates/review-tai-lieu|Review tài liệu (Bước 3)]]
+- [[Templates/output-nop-bai|Checklist nộp bài (Bước 5)]]
 
 ---
 

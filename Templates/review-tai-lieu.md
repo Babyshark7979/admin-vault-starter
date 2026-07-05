@@ -1,5 +1,7 @@
 # 🔍 Review Tài Liệu: {{title}}
 
+> Bước 3 trong [[WORKFLOW|Quy trình làm việc]] | Prompt AI: [[HUONG-DAN-ANTIGRAVITY]] | Nộp bài: [[Templates/output-nop-bai]]
+
 **Ngày:** {{date}}
 **Loại tài liệu:** 
 **Nguồn:** 

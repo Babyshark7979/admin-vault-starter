@@ -1,5 +1,7 @@
 # 🤖 Hướng dẫn dùng Antigravity cho hành chính
 
+> Dùng ở Bước 4 trong [[WORKFLOW|Quy trình làm việc]] | Quay lại: [[HUONG-DAN-NHANH]]
+
 > Antigravity = AI assistant chạy trên máy, không cần internet, bảo mật cao.
 
 ---

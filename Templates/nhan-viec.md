@@ -1,5 +1,7 @@
 # 📋 Nhận việc: {{title}}
 
+> Bước 2 trong [[WORKFLOW|Quy trình làm việc]] | Tiếp theo: [[Templates/checklist-sua-van-ban|Checklist sửa văn bản]]
+
 **Ngày nhận:** {{date}}
 **Người giao:** 
 **Deadline:** 

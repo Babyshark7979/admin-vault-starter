@@ -30,10 +30,25 @@ admin-vault-starter/
 
 ## Kết nối Antigravity (AI hỗ trợ)
 
-Xem file `HUONG-DAN-ANTIGRAVITY.md` để biết cách dùng AI sửa lỗi chính tả và review tài liệu nhanh.
+Xem [[HUONG-DAN-ANTIGRAVITY]] để biết cách dùng AI sửa lỗi chính tả và review tài liệu nhanh.
 
 ---
 
 ## Setup Obsidian
 
-Xem file `SETUP.md` — hướng dẫn từng bước mở vault này trong Obsidian.
+Xem [[SETUP]] — hướng dẫn từng bước mở vault này trong Obsidian.
+
+---
+
+## Bản đồ vault
+
+| File | Mục đích |
+|---|---|
+| [[HUONG-DAN-NHANH]] | ⚡ Đọc trước — 5 bước dùng ngay |
+| [[WORKFLOW]] | 🔄 Quy trình đầy đủ Input→Output |
+| [[HUONG-DAN-ANTIGRAVITY]] | 🤖 Prompt AI copy-paste sẵn |
+| [[SETUP]] | 🛠️ Cài Obsidian lần đầu |
+| [[Templates/nhan-viec]] | 📋 Nhận việc (Bước 2) |
+| [[Templates/checklist-sua-van-ban]] | ✅ Checklist sửa chính tả (Bước 3) |
+| [[Templates/review-tai-lieu]] | 🔍 Review tài liệu (Bước 3) |
+| [[Templates/output-nop-bai]] | 📤 Nộp bài (Bước 5) |
