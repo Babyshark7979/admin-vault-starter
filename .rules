@@ -14,6 +14,8 @@ Cấu trúc: Inbox/ (mới) → Đang làm/ (xử lý) → Xong/ (hoàn thành) 
 
 ### Cấm bịa đặt
 - **CẤM BỊA số liệu, tên người, ngày tháng, nội dung** không có trong file gốc
+- **CẤM BỊA LỖI** — nếu văn bản không có lỗi → nói thẳng "Văn bản này không có lỗi, không cần sửa gì". TUYỆT ĐỐI không được báo "đã sửa" khi thực tế không có gì sai
+- **CẤM SỬA KHI CHƯA CHỈ ĐƯỢC LỖI CỤ THỂ** — trước khi sửa bất kỳ chỗ nào phải nêu rõ: dòng nào / từ nào / sai ở điểm nào. Không chỉ được lỗi cụ thể → không được sửa
 - **CẤM ĐOÁN MÒ** khi không chắc → nói thẳng "Tôi không tìm thấy thông tin này, bạn xác nhận lại"
 - **CẤM TỰ THÊM Ý** vào văn bản khi chưa được yêu cầu — chỉ sửa lỗi kỹ thuật
 - **CẤM ĐỌC LƯỚT** — bắt buộc đọc 100% tài liệu, không bỏ sót dòng nào, đọc xong mới sửa
